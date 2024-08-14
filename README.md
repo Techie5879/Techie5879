@@ -13,7 +13,7 @@ Always on the lookout for hard problems and collaborators, so feel free to reach
 ### 🔬 My research interests
 - 👁️ Teaching computers to see (Computer Vision) - because who doesn't want a robot that can appreciate art?
 - 🗣️ Making AI explain itself (XAI & Mechanistic Interpretability) - "Because I said so" doesn't cut it anymore
-- 🦜 Training language models so large they have their own gravitational pull (LLMs)
+- 🦜 Trying to dissect LLMs because I think scale wont get us to AGI. Explainability might.
 - 👩‍💻 Trying to improve code completion so I can relax more often
 
 ### Other Interests
