@@ -3,7 +3,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Techie5879)
 
-Hello World! You know me as Aritra. Currently a senior CS Undergrad at IIESTS, and 20 years old. I started programming about 9 (?) years ago now. Extremely interested in ML Research and new problems, and always exploring the frontier of Deep Learning. When I'm not training neural networks, I'm probably training my coffee-drinking skills ☕
+Hello World! You know me as Aritra. Currently a senior CS Undergrad at IIESTS, and 20 years old. I've programming (in some form) for about 9 (?) years ago now. Extremely interested in ML Research and new problems, and always exploring the frontier of Deep Learning. When I'm not training neural networks, I'm probably training my coffee-drinking skills ☕
 
 I'm very interested in the areas of XAI (Mechanistic Interpretability), Computer Vision and LLMs. I've been a DAAD WISE Scholar 2024 at Technical University of Munich, working on Computer Vision, ML Research Intern at IIT Kharagpur and Quantum Computing Research Intern at ISI Kolkata. I've also worked with LLMs and built production-grade solutions over the past 1.5 years (almost as soon as LLMs emerged into the mainstream) as an MLE at Mercor. Currently working on a few research problems and trying to do some independent research. Here's my [resume](coming_soon)
 
