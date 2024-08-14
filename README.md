@@ -26,6 +26,8 @@ Other than that, my interests probably just lie in exploring various challenges 
 <a href="https://www.linkedin.com/in/aritraban/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://x.com/aritraban7" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="mailto:aritraxban@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://placeholder.com" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
+<a href="https://placeholder.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Blog"></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techie5879&layout=compact&theme=radical" />
 
 <br clear="both">
