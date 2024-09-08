@@ -23,13 +23,12 @@ Other than that, my interests probably just lie in exploring various challenges 
 
 
 ### 📫 Ping Me!
-[![LinkedIn](https://img.shields.io/badge/--%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritraban/)
-[![Twitter](https://img.shields.io/badge/--%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aritraban7)
+[![LinkedIn](https://img.shields.io/badge/--%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritraban/)
+[![Twitter](https://img.shields.io/badge/--%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aritraban7)
 [![Gmail](https://img.shields.io/badge/--%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritraxban@gmail.com)
 [![Website](https://img.shields.io/badge/--%234285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://placeholder.com)
 [![Tech Blog](https://img.shields.io/badge/--%23000000?style=for-the-badge&logo=overleaf&logoColor=white)](https://techie5879.github.io/)
 [![Personal Blog](https://img.shields.io/badge/--%23FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-personal-blog-url.com)
-
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techie5879&layout=compact&theme=radical" />
 
