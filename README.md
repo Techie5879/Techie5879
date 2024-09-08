@@ -23,12 +23,12 @@ Other than that, my interests probably just lie in exploring various challenges 
 
 
 ### 📫 Ping Me!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritraban/)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aritraban7)
-[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritraxban@gmail.com)
-[![Website](https://img.shields.io/badge/website-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://techie5879.github.io/)
-[![Technical Blog](https://img.shields.io/badge/blog-%23FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)](https://techie5879.github.io/blog/)
-[![Personal Blog](https://img.shields.io/badge/blog-%23FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)](https://placeholder.com)
+[![LinkedIn](https://img.shields.io/badge/--%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritraban/)
+[![Twitter](https://img.shields.io/badge/--%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aritraban7)
+[![Gmail](https://img.shields.io/badge/--%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritraxban@gmail.com)
+[![Website](https://img.shields.io/badge/--%234285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://placeholder.com)
+[![Tech Blog](https://img.shields.io/badge/--%23000000?style=for-the-badge&logo=overleaf&logoColor=white)](https://techie5879.github.io/)
+[![Personal Blog](https://img.shields.io/badge/--%23FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-personal-blog-url.com)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techie5879&layout=compact&theme=radical" />
