@@ -19,5 +19,5 @@ Text alone isn't enough. Spatial reasoning and visual understanding matter, and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritraban/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/aritraban7)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aritraxban@gmail.com)
-[![Website](https://img.shields.io/badge/Website-14171A?style=flat&logo=aboutdotme&logoColor=white)](https://placeholder.com)
-[![Blog](https://img.shields.io/badge/Blog-2962FF?style=flat&logo=hashnode&logoColor=white)](https://techie5879.github.io/)
+[![Website](https://img.shields.io/badge/Website-14171A?style=flat&logo=aboutdotme&logoColor=white)](https://techie5879.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-2962FF?style=flat&logo=hashnode&logoColor=white)](https://placeholder.com)
