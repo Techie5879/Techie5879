@@ -8,11 +8,11 @@ Been using LLMs daily since they went mainstream. Watching them evolve has left 
 
 ### Interpretability
 
-Trying to reverse-engineer neural networks. Making AI explain itself because "because I said so" doesn't cut it anymore.
+I’m exploring interpretability and collecting practical intuition about model internals.
 
 ### Computer Vision
 
-Text alone isn't enough. Spatial reasoning and visual understanding matter, and we need to get better at interpreting vision models.
+Text as a medium often seems like a pretty compressed form of getting a point across. Spatial reasoning and visual understanding matter, and we need to get better at interpreting vision models.
 
 ---
 
